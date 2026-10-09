@@ -20,6 +20,3 @@ Explore Chandigarh is a tourism website designed to showcase the beauty, attract
 
 This project aims to help tourists discover Chandigarh's popular attractions through a simple and user-friendly website.
 
-## Author
-
-Aarushi Kharod
