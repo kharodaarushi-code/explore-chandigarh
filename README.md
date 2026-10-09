@@ -2,7 +2,7 @@
 
 Explore Chandigarh is a tourism website designed to showcase the beauty, attractions, architecture, gardens, and cultural highlights of Chandigarh, India.
 
-## 🌐 Live Website
+# Live Website
 
 **[Click here to visit Explore Chandigarh](https://kharodaarushi-code.github.io/explore-chandigarh/)**
 
