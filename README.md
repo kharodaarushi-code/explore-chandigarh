@@ -2,6 +2,10 @@
 
 Explore Chandigarh is a tourism website designed to showcase the beauty, attractions, architecture, gardens, and cultural highlights of Chandigarh, India.
 
+## 🌐 Live Website
+
+**[Click here to visit Explore Chandigarh](https://kharodaarushi-code.github.io/explore-chandigarh/)**
+
 ## Features
 
 * Explore popular tourist destinations
@@ -9,6 +13,8 @@ Explore Chandigarh is a tourism website designed to showcase the beauty, attract
 * Discover information about Chandigarh
 * Travel guide for visitors
 * Responsive website design
+* Google Maps links for destinations
+* Mobile-friendly navigation
 
 ## Technologies Used
 
@@ -20,3 +26,6 @@ Explore Chandigarh is a tourism website designed to showcase the beauty, attract
 
 This project aims to help tourists discover Chandigarh's popular attractions through a simple and user-friendly website.
 
+## Project Preview
+
+Visit the live website to explore the design, destinations, and interactive features.
